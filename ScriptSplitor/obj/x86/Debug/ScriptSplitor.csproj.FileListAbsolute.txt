@@ -1,0 +1,24 @@
+c:\users\rdeshmukh\documents\visual studio 2010\Projects\ScriptSplitor\ScriptSplitor\bin\Debug\ScriptSplitor.exe
+c:\users\rdeshmukh\documents\visual studio 2010\Projects\ScriptSplitor\ScriptSplitor\bin\Debug\ScriptSplitor.pdb
+c:\users\rdeshmukh\documents\visual studio 2010\Projects\ScriptSplitor\ScriptSplitor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rdeshmukh\documents\visual studio 2010\Projects\ScriptSplitor\ScriptSplitor\obj\x86\Debug\ScriptSplitor.exe
+c:\users\rdeshmukh\documents\visual studio 2010\Projects\ScriptSplitor\ScriptSplitor\obj\x86\Debug\ScriptSplitor.pdb
+c:\users\rdeshmukh\documents\visual studio 2010\Projects\ScriptSplitor\ScriptSplitor\bin\Debug\ScriptSplitor.exe.config
+C:\Users\ngolatkar\Desktop\Renukatrial\ScriptSplitor\ScriptSplitor\bin\Debug\ScriptSplitor.exe.config
+C:\Users\ngolatkar\Desktop\Renukatrial\ScriptSplitor\ScriptSplitor\obj\x86\Debug\ScriptSplitor.exe
+C:\Users\ngolatkar\Desktop\Renukatrial\ScriptSplitor\ScriptSplitor\obj\x86\Debug\ScriptSplitor.pdb
+C:\Users\ngolatkar\Desktop\Renukatrial\ScriptSplitor\ScriptSplitor\bin\Debug\ScriptSplitor.exe
+C:\Users\ngolatkar\Desktop\Renukatrial\ScriptSplitor\ScriptSplitor\bin\Debug\ScriptSplitor.pdb
+C:\Users\ngolatkar\Desktop\Renukatrial\ScriptSplitor\ScriptSplitor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Softwares\Renukatrial\ScriptSplitor\ScriptSplitor\bin\Debug\ScriptSplitor.exe.config
+D:\Softwares\Renukatrial\ScriptSplitor\ScriptSplitor\obj\x86\Debug\ScriptSplitor.exe
+D:\Softwares\Renukatrial\ScriptSplitor\ScriptSplitor\obj\x86\Debug\ScriptSplitor.pdb
+D:\Softwares\ScriptSplitter\ScriptSplitor\ScriptSplitor\bin\Debug\ScriptSplitor.exe.config
+D:\Softwares\ScriptSplitter\ScriptSplitor\ScriptSplitor\obj\x86\Debug\ScriptSplitor.exe
+D:\Softwares\ScriptSplitter\ScriptSplitor\ScriptSplitor\obj\x86\Debug\ScriptSplitor.pdb
+D:\Softwares\ScriptSplitter\RenukaTrial\ScriptSplitor\bin\Debug\ScriptSplitor.exe.config
+D:\Softwares\ScriptSplitter\RenukaTrial\ScriptSplitor\obj\x86\Debug\ScriptSplitor.exe
+D:\Softwares\ScriptSplitter\RenukaTrial\ScriptSplitor\obj\x86\Debug\ScriptSplitor.pdb
+D:\Softwares\ScriptSplitter\RenukaTrial\ScriptSplitor\bin\Debug\ScriptSplitor.exe
+D:\Softwares\ScriptSplitter\RenukaTrial\ScriptSplitor\bin\Debug\ScriptSplitor.pdb
+D:\Softwares\ScriptSplitter\RenukaTrial\ScriptSplitor\obj\x86\Debug\ScriptSplitor.csprojResolveAssemblyReference.cache
